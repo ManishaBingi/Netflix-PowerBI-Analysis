@@ -13,6 +13,7 @@ Key metrics include IMDb ratings, votes, runtime, and age certifications.
 ## Files
 - `Netflix Movies and Shows Analysis.pbix` → Power BI dashboards
 - `Netflix TV Shows and Movies.xlsx' → dataset
+- 'Dashboard.png' → A quick data visualization
 - `README.md` → project documentation
 
 ## Insights
